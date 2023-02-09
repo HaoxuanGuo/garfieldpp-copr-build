@@ -74,3 +74,6 @@ EOF
 %changelog
 * Sat Feb 4 11:05:00 CST 2023 Haoxuan Guo <kuohaoxuan@outlook.com> - 4.0-1
 - Initial RPM release
+
+* Thu Feb 9 14:03:00 CST 2023 Haoxuan Guo <kuohaoxuan@outlook.com> - 4.0-2
+- Add conflicts: garfield-nightly
